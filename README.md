@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
