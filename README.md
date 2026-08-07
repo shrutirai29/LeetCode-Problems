@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Timsort
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -63,8 +65,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
