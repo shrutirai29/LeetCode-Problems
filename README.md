@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Timsort
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
