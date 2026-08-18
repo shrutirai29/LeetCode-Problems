@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1563-stone-game-v) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1563-stone-game-v) |
@@ -168,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
