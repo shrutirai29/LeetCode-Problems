@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrutirai29/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1510-stone-game-iv) |
