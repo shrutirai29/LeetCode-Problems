@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0835-image-overlap](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1140-stone-game-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
