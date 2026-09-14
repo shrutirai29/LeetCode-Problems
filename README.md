@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1510-stone-game-iv) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shrutirai29/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
