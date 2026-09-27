@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shrutirai29/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shrutirai29/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
