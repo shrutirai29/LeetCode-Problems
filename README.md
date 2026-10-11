@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0835-image-overlap](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0835-image-overlap) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
