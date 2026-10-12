@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0835-image-overlap](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1140-stone-game-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [1096-brace-expansion-ii](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shrutirai29/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shrutirai29/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/shrutirai29/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shrutirai29/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shrutirai29/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
